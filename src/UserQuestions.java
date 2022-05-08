@@ -12,4 +12,11 @@ public class UserQuestions {
      What is your gender? (F/M) -> variable name can be askGender
      What class would you like to join? (Math/Science) -> variable name can be askClassName
      */
+
+    final static String askToJoin = "Would you like to be part of our Math or Science programs? (Y/N)";
+    final static String askFirstName = "What is your first name?";
+    final static String askLastName = "What is your last name?";
+    final static String askAge = "How old are you?";
+    final static String askGender = "What is your gender?";
+    final static String askClassName = "What class would you like to join? (Math/Science)";
 }
